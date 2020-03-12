@@ -5,6 +5,6 @@
   "main": "index.js",
   "dependencies": {
     "registry-sync": "2.3.6",
-    "asti": "0.0.5"
+    "asti": "0.0.2"
   }
 }
